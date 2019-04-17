@@ -13,7 +13,7 @@
 \firstname{MANISH}
 \familyname{DSILVA}
 
-
+\photo[80pt][0.5pt]{manish_pp.JPG}
 
 \mobile{9892284187 , 9930776667}
 
@@ -28,11 +28,17 @@
 %----------------------------------------------------------------------------------
 %            CAREER OBJECTIVE
 %----------------------------------------------------------------------------------
+
 \section{Career Objective}
 
-\cventry{}{}{To serve the Nation and help gaining its Prosperity by Devolepment in Technology}{}{}{} 
+\begin{itemize}
+\item To serve the Nation and help gaining its Prosperity by Devolepment in Technology
 
-\cventry{}{}{To Critically Analyze Problems of the Society through Logical Reasoning and build Solutions}{}{}{}
+\item To Critically Analyze Problems of the Society through Logical Reasoning and Build Solutions \\
+
+\end{itemize}
+
+
 
 %----------------------------------------------------------------------------------
 %            EDUCATION
@@ -54,6 +60,7 @@
 \end{tabular}
 \newline\newline
 \textbf{EXTC => Electronics \& Telecommunication Engineering}
+
 
 %----------------------------------------------------------------------------------
 %            PROJECTS
@@ -83,9 +90,7 @@
 	\item Worked on Arduino Nano
 	\item Interfaced Infrared Sensor
 	\item Combined both to detect and follow a black line
-	\newline
-	\newline
-	\newline
+
 \end{itemize}
 \end{enumerate} 
 
@@ -124,7 +129,7 @@
 \begin{itemize}
 	\item\textbf{Programming Languages Known}: C,Java,Python \newline
 	
-	\item \textbf{Worked with}: Scilab,SEQUEL,Jupyter Notebook,Ecllipse-IDE,Arduino-IDE,MS-Office,Latex ,Anaconda Navigator  \newline
+	\item \textbf{Worked with}: Scilab,SEQUEL,Jupyter Notebook,Ecllipse-IDE,Arduino-IDE,MS-Office,Latex, Anaconda Navigator, Power BI \newline
 	
 	\end {itemize}
 	
@@ -134,15 +139,17 @@
 	%----------------------------------------------------------------------------------------
 	
 	
-	\section{Soft Skills}
-	\begin{enumerate}
+\section{Soft Skills}
+\begin{enumerate}
 		\item Quick Learner				 
 		\item Great Written and Oral Communication
 		\item Leadership \& Team Work
 		\item Efficient Time Management
 		%\item Analyzing Situations \& Optimizing Solutions 
 		\item Volunteered with \textbf{Afroz Shah's} NGO to clean up Versova and other Beaches in Mumbai  (Oct 2018-Present) 
-	\end{enumerate}
+		\\
+		
+\end{enumerate}
 
 %----------------------------------------------------------------------------------------
 %	EXTRA-CURRICULAR ACTIVITIES
@@ -155,8 +162,8 @@
 	\item Quora Writer with \textbf{1.4 Million Views} and 2$^{nd}$ most Viewed Writer Globally (June - August 2018)in Cricket and Allied Topics   
 	\item Raised Rs30,000/- from marketing for College Technocultural Fest
 	\item Secured 2$^{nd}$ place at Project Innovation Challenge organized by \textbf{IEEE} at SPIT
-	\item Gold Medal in Shot-Put and Silver Medal in 4x100m Relay at Annual Sports Meet at ST John
-	\end {itemize}
+	\item Gold Medal in Shot-Put and Silver Medal in 4x100m Relay at Annual Sports Meet at ST John\\
+	\end {itemize} 
 	
 	
 	%----------------------------------------------------------------------------------------
@@ -168,6 +175,7 @@
 	\begin{enumerate}
 		\item 100\% in Applied Mathematics and 10.00 CGPA in Semester 2 and Semester 3 
 		\item 5 Star in Coding on Hackerrank in Java  
+		\\
 		
 	\end{enumerate}
 	
