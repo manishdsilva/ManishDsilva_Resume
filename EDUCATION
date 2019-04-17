@@ -1,0 +1,20 @@
+%----------------------------------------------------------------------------------
+%            EDUCATION
+%----------------------------------------------------------------------------------
+
+\section{Education}
+
+\newcolumntype{P}[1]{>{\centering\arraybackslash}p{#1}}
+\begin{tabular}{|P{3cm}|P{4.5cm}|P{3.5cm}|P{3cm}|P{3cm}|}
+	
+	\hline
+	
+	\textbf {Degree} & \textbf { College/School} & \textbf {University} & \textbf {Passing Year} & \textbf {Pass Percentage} \\ \hline
+	
+	B.Tech(EXTC)& Sardar Patel Institute Of Technology & Mumbai University(Autonomous) & pursuing & 9.91 CGPA (Upto Sem 3)  \\ \hline
+	H.S.C (12th) & PACE Powai & Maharashtra State Board & 2017  & 90.31\%  \\ \hline
+	S.S.C (10th) & St John The Evangelist Marol & Maharashtra State Board & 2015 & 93.4\%  \\  \hline
+	
+\end{tabular}
+\newline\newline
+\textbf{EXTC => Electronics \& Telecommunication Engineering}
