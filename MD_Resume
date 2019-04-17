@@ -25,14 +25,18 @@
 \begin{document}
 \makecvtitle
 
-
+%----------------------------------------------------------------------------------
+%            CAREER OBJECTIVE
+%----------------------------------------------------------------------------------
 \section{Career Objective}
 
 \cventry{}{}{To serve the Nation and help gaining its Prosperity by Devolepment in Technology}{}{}{} 
 
 \cventry{}{}{To Critically Analyze Problems of the Society through Logical Reasoning and build Solutions}{}{}{}
 
-
+%----------------------------------------------------------------------------------
+%            EDUCATION
+%----------------------------------------------------------------------------------
 
 \section{Education}
 
@@ -51,6 +55,9 @@
 \newline\newline
 \textbf{EXTC => Electronics \& Telecommunication Engineering}
 
+%----------------------------------------------------------------------------------
+%            PROJECTS
+%----------------------------------------------------------------------------------
 
 \section{Projects}
 
@@ -198,7 +205,9 @@ Munshi Nagar, Andheri (W), Mumbai-58     \\
 \section{Declaration}
 I hereby declare that the above furnished information is true to the best of my knowledge and that I will be held responsible for any deviation from them at a later stage. \\
 
-
+%----------------------------------------------------------------------------------
+%            DATE
+%----------------------------------------------------------------------------------
 \textbf{DATE: 17 April 2019}
 
 \end{document}
