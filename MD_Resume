@@ -1,0 +1,204 @@
+
+\documentclass[11pt,a4paper,sans]{moderncv}       
+\moderncvstyle{casual}                            
+\moderncvcolor{blue}                            
+
+\usepackage{lipsum}                      
+\usepackage[scale=0.75]{geometry}
+\usepackage{array}
+
+%----------------------------------------------------------------------------------
+%            BASIC INFO
+%----------------------------------------------------------------------------------
+\firstname{MANISH}
+\familyname{DSILVA}
+
+
+
+\mobile{9892284187 , 9930776667}
+
+\email{manishdsilva7@gmail.com}
+
+\address{RK Mandir Road,Kondivita}{Andheri East}{Mumbai 400059}
+
+
+\begin{document}
+\makecvtitle
+
+
+\section{Career Objective}
+
+\cventry{}{}{To serve the Nation and help gaining its Prosperity by Devolepment in Technology}{}{}{} 
+
+\cventry{}{}{To Critically Analyze Problems of the Society through Logical Reasoning and build Solutions}{}{}{}
+
+
+
+\section{Education}
+
+\newcolumntype{P}[1]{>{\centering\arraybackslash}p{#1}}
+\begin{tabular}{|P{3cm}|P{4.5cm}|P{3.5cm}|P{3cm}|P{3cm}|}
+	
+	\hline
+	
+	\textbf {Degree} & \textbf { College/School} & \textbf {University} & \textbf {Passing Year} & \textbf {Pass Percentage} \\ \hline
+	
+	B.Tech(EXTC)& Sardar Patel Institute Of Technology & Mumbai University(Autonomous) & pursuing & 9.91 CGPA (Upto Sem 3)  \\ \hline
+	H.S.C (12th) & PACE Powai & Maharashtra State Board & 2017  & 90.31\%  \\ \hline
+	S.S.C (10th) & St John The Evangelist Marol & Maharashtra State Board & 2015 & 93.4\%  \\  \hline
+	
+\end{tabular}
+\newline\newline
+\textbf{EXTC => Electronics \& Telecommunication Engineering}
+
+
+\section{Projects}
+
+\begin{enumerate}
+	
+	\item \textbf{eYantra-2018 (National Level Robotics Competition)}, \newline\textit{Theme: ANT BOT} \textit{ (Sep 2018- Mar 2019) }
+	\begin{itemize}
+		\item Worked on Raspberry-Pi \& Arduino Nano
+		\item Combined Image Processing,Designed Shortest Path Calculating Human Algorithm, Used PID for Line Following and desiged a Robot 
+		\newline
+	\end{itemize}
+	
+	\item \textbf{Obstacle Detector Bot},     \textit{ (April 2019) }
+	\begin{itemize}
+		\item Worked on Arduino Nano
+		\item Interfaced Ultrasonic Sensor
+		\item Combined both to detect and not collide with objects/walls
+		\newline
+	\end{itemize}
+	
+	\item \textbf{Line Following Bot},     \textit{ (Sep 2017) }
+\begin{itemize}
+	\item Worked on Arduino Nano
+	\item Interfaced Infrared Sensor
+	\item Combined both to detect and follow a black line
+	\newline
+	\newline
+	\newline
+\end{itemize}
+\end{enumerate} 
+
+%----------------------------------------------------------------------------------------
+%	Training & Internship
+%----------------------------------------------------------------------------------------
+
+\section{Training \& Internship}
+
+\begin{itemize}
+	
+	\item Skill Course on \textit{Data Analytics} by Fractal Analytics on \textbf{\textit{Python}}\textit{ (Semester 3) } \newline
+	
+	\item Skill Course on \textit{Data Visualization} by Fractal Analytics on \textbf{\textit{Power BI by Microsoft}}\textit{ (Semester 4) } \newline
+	
+	
+\end{itemize}
+
+%----------------------------------------------------------------------------------------
+%	RESEARCH PUBLICATIONS
+%----------------------------------------------------------------------------------------
+
+\section{Research Publications}
+
+\begin{enumerate}
+	
+	\item None \newline		
+\end{enumerate}
+
+%----------------------------------------------------------------------------------------
+%	TECH SKILLS
+%----------------------------------------------------------------------------------------
+
+\section{Technical Skills}
+
+\begin{itemize}
+	\item\textbf{Programming Languages Known}: C,Java,Python \newline
+	
+	\item \textbf{Worked with}: Scilab,SEQUEL,Jupyter Notebook,Ecllipse-IDE,Arduino-IDE,MS-Office,Latex ,Anaconda Navigator  \newline
+	
+	\end {itemize}
+	
+	
+	%----------------------------------------------------------------------------------------
+	%	SOFT SKILLS
+	%----------------------------------------------------------------------------------------
+	
+	
+	\section{Soft Skills}
+	\begin{enumerate}
+		\item Quick Learner				 
+		\item Great Written and Oral Communication
+		\item Leadership \& Team Work
+		\item Efficient Time Management
+		%\item Analyzing Situations \& Optimizing Solutions 
+		\item Volunteered with \textbf{Afroz Shah's} NGO to clean up Versova and other Beaches in Mumbai  (Oct 2018-Present) 
+	\end{enumerate}
+
+%----------------------------------------------------------------------------------------
+%	EXTRA-CURRICULAR ACTIVITIES
+%----------------------------------------------------------------------------------------
+
+
+\section{Extra-Curricular Activities}
+
+\begin{itemize}
+	\item Quora Writer with \textbf{1.4 Million Views} and 2$^{nd}$ most Viewed Writer Globally (June - August 2018)in Cricket and Allied Topics   
+	\item Raised Rs30,000/- from marketing for College Technocultural Fest
+	\item Secured 2$^{nd}$ place at Project Innovation Challenge organized by \textbf{IEEE} at SPIT
+	\item Gold Medal in Shot-Put and Silver Medal in 4x100m Relay at Annual Sports Meet at ST John
+	\end {itemize}
+	
+	
+	%----------------------------------------------------------------------------------------
+	%	CO-CURRICULAR ACTIVITIES
+	%----------------------------------------------------------------------------------------
+	
+	
+	\section{Co-Curricular Activities}
+	\begin{enumerate}
+		\item 100\% in Applied Mathematics and 10.00 CGPA in Semester 2 and Semester 3 
+		\item 5 Star in Coding on Hackerrank in Java  
+		
+	\end{enumerate}
+	
+	
+	%----------------------------------------------------------------------------------------
+	%	PERSONAL DETAILS
+	%----------------------------------------------------------------------------------------
+	
+	
+	\section{Personal Details}
+	Father's Name: Michael Dsilva 	\hspace{3cm}		Mother's Name: Diana Dsilva \\
+	Sex: Male 				\hspace{6.35cm}		Date Of Birth: 28 September 1999 \\
+	Nationality: Indian			\hspace{5.08cm}		Marital Status: Single
+	
+
+
+%----------------------------------------------------------------------------------------
+%	REFERENCE
+%----------------------------------------------------------------------------------------
+
+\section{Reference}
+
+Dr.Y S Rao, PhD (ES-IIT-Bombay)    \\                                                                                    \
+Vice-Principal,      \\                                                        
+Sardar Patel Institute of Technology,       \\                  
+Munshi Nagar, Andheri (W), Mumbai-58     \\    
+\mobilesymbol 9820962870 \\    
+\emailsymbol \href{mailto: ysrao@spit.ac.in}{\nolinkurl{ ysrao@spit.ac.in} }\\
+
+
+%----------------------------------------------------------------------------------------
+%	DECLARATION
+%----------------------------------------------------------------------------------------
+
+\section{Declaration}
+I hereby declare that the above furnished information is true to the best of my knowledge and that I will be held responsible for any deviation from them at a later stage. \\
+
+
+\textbf{DATE: 17 April 2019}
+
+\end{document}
