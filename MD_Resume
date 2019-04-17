@@ -1,10 +1,10 @@
 
-\documentclass[11pt,a4paper,sans]{moderncv}       
-\moderncvstyle{casual}                            
-\moderncvcolor{blue}                            
+\documentclass[11pt,a4paper,sans]{moderncv}   %chosen template    
+\moderncvstyle{casual}                        %style of cv               
+\moderncvcolor{blue}                          %colour of format  
 
-\usepackage{lipsum}                      
-\usepackage[scale=0.75]{geometry}
+\usepackage{lipsum}                           %Loading Font
+\usepackage[scale=0.75]{geometry}             %Margins
 \usepackage{array}
 
 %----------------------------------------------------------------------------------
@@ -129,7 +129,7 @@
 \begin{itemize}
 	\item\textbf{Programming Languages Known}: C,Java,Python \newline
 	
-	\item \textbf{Worked with}: Scilab,SEQUEL,Jupyter Notebook,Ecllipse-IDE,Arduino-IDE,MS-Office,Latex, Anaconda Navigator, Power BI \newline
+	\item \textbf{Worked with}: Scilab,SEQUEL,Jupyter Notebook,Ecllipse-IDE,Arduino-IDE,MS-Office,Latex, Anaconda Navigator, Power BI, Open CV \newline
 	
 	\end {itemize}
 	
@@ -145,10 +145,8 @@
 		\item Great Written and Oral Communication
 		\item Leadership \& Team Work
 		\item Efficient Time Management
-		%\item Analyzing Situations \& Optimizing Solutions 
-		\item Volunteered with \textbf{Afroz Shah's} NGO to clean up Versova and other Beaches in Mumbai  (Oct 2018-Present) 
-		\\
-		
+		\item Analyzing Situations \& Optimizing Solutions 
+		 		
 \end{enumerate}
 
 %----------------------------------------------------------------------------------------
@@ -160,9 +158,9 @@
 
 \begin{itemize}
 	\item Quora Writer with \textbf{1.4 Million Views} and 2$^{nd}$ most Viewed Writer Globally (June - August 2018)in Cricket and Allied Topics   
-	\item Raised Rs30,000/- from marketing for College Technocultural Fest
-	\item Secured 2$^{nd}$ place at Project Innovation Challenge organized by \textbf{IEEE} at SPIT
-	\item Gold Medal in Shot-Put and Silver Medal in 4x100m Relay at Annual Sports Meet at ST John\\
+	\item Raised Rs.30,000/- from marketing for College Technocultural Fest
+	\item Gold Medal in Shot-Put and Silver Medal in 4x100m Relay at Annual Sports Meet at ST John
+	\item Volunteered with \textbf{Afroz Shah's} NGO to clean up Versova and other Beaches in Mumbai  (Oct 2018-Present)\\
 	\end {itemize} 
 	
 	
@@ -173,6 +171,7 @@
 	
 	\section{Co-Curricular Activities}
 	\begin{enumerate}
+		\item Secured 2$^{nd}$ place at Project Innovation Challenge organized by \textbf{IEEE} at SPIT
 		\item 100\% in Applied Mathematics and 10.00 CGPA in Semester 2 and Semester 3 
 		\item 5 Star in Coding on Hackerrank in Java  
 		\\
@@ -198,12 +197,12 @@
 
 \section{Reference}
 
-Dr.Y S Rao, PhD (ES-IIT-Bombay)    \\                                                                                    \
-Vice-Principal,      \\                                                        
+Mr Dayanand Ambawade    \\                                                                                    \
+Associate Professor,      \\                                                        
 Sardar Patel Institute of Technology,       \\                  
 Munshi Nagar, Andheri (W), Mumbai-58     \\    
-\mobilesymbol 9820962870 \\    
-\emailsymbol \href{mailto: ysrao@spit.ac.in}{\nolinkurl{ ysrao@spit.ac.in} }\\
+\mobilesymbol 9892456410 \\    
+\emailsymbol \href{mailto: dd_ambawade@spit.ac.in}{\nolinkurl{ dd_ambawade@spit.ac.in} }\\
 
 
 %----------------------------------------------------------------------------------------
